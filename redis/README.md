@@ -1,4 +1,4 @@
-# redis数据库便携版
+# redis数据库(windows)便携版
 ## 下载
 ### wegit
 ```
